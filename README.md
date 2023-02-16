@@ -1,4 +1,4 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="https://media.licdn.com/dms/image/D5616AQHvaeoMpV-cKQ/profile-displaybackgroundimage-shrink_350_1400/0/1672364942943?e=1681948800&v=beta&t=K2Tb2q5AUU9Da5eHX9hVsj2nkXEGeYO2_wvjzZMLOgs"></img>
 
 <table align="right">
  <tr><td>  English </td></tr> 
@@ -29,7 +29,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+   <b>:computer: &nbsp;Main tech knowledge</b 
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
