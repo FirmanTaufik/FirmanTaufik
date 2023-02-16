@@ -2,7 +2,7 @@
 
 <table align="right">
 	<tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_United_Kingdom.png/1200px-Flag_of_the_United_Kingdom.png" height="13"> English</a></td></tr>
-	<tr><td>  Indonesia </td></tr> 
+	<tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Indonesia_flag_300.png" height="13"> Indonesia</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
