@@ -1,19 +1,18 @@
 <img src="images/svg/header_en.svg"></img>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td>  English </td></tr> 
+ <tr><td>  Indonesia </td></tr> 
 </table>
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as  Android Developer PT Indah Logistic \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love write code and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching new experience.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with couple years of experience in enterprise wide software development.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Indonesia with my lovely Family .
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
