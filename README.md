@@ -7,12 +7,13 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as  Android Developer PT Bank Rakyat Indonesia \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love write code and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching new experience.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with couple years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Indonesia with my lovely Family .
+👨‍💻  Currently working as Android Developer PT Bank Rakyat Indonesia  
+🌱  Love write code and innovation.  
+❤️  Passionate with problem solving and daily routines automation.  
+✍️  Currently researching new experience.  
+🛠️  Coding since 2017 with couple years of experience in enterprise wide software development.  
+👨‍👩‍👧‍👧  Living in Indonesia with my lovely Family.
+
 
 <p align="center">
   <a href="mailto:fkopitezz@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
