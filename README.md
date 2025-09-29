@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as  Android Developer PT Indah Logistic \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as  Android Developer PT Bank Rakyat Indonesia \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love write code and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching new experience.\
