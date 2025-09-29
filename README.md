@@ -1,5 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHvaeoMpV-cKQ/profile-displaybackgroundimage-shrink_350_1400/0/1672364942943?e=1681948800&v=beta&t=K2Tb2q5AUU9Da5eHX9hVsj2nkXEGeYO2_wvjzZMLOgs"></img>
-
+ 
 <table align="right">
 	<tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_United_Kingdom.png/1200px-Flag_of_the_United_Kingdom.png" height="13"> English</a></td></tr>
 	<tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Indonesia_flag_300.png" height="13"> Indonesia</a></td></tr>
